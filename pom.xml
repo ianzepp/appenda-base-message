@@ -11,4 +11,12 @@
 	<artifactId>appenda-base-message</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<packaging>php</packaging>
+
+	<dependencies>
+		<dependency>
+			<groupId>com.ianzepp.appenda</groupId>
+			<artifactId>appenda-base-common</artifactId>
+			<version>1.0-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
 </project>
